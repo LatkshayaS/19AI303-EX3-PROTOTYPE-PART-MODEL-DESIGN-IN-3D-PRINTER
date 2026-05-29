@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-(<img width="1917" height="1019" alt="image" src="https://github.com/user-attachments/assets/02dd3877-555a-4784-9977-e0f0fcb8e3f6" />)
+<img width="1917" height="1019" alt="image" src="https://github.com/user-attachments/assets/02dd3877-555a-4784-9977-e0f0fcb8e3f6" />
 
 ### Name:Latkshaya S
 ### Register Number:212225240078
